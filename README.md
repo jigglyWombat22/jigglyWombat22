@@ -4,8 +4,6 @@
 <!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&duration=5000&pause=2000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Cheska+Tuazon+%F0%9F%91%8B" alt="name" />
 
-<br/>
-
 <!-- HOBBY IMAGE GRID -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=4000&pause=99999&color=FF69B4&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B8+Things+I+Love+Outside+of+Coding" alt="hobbies-title" />
@@ -58,7 +56,7 @@
     </td>
   </tr>
 </table>
-<br/>
+
 
 <!-- TYPING INTRO -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=4000&pause=1500&color=FF69B4&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;%26+Future+Software+Engineer" alt="typing-intro" />
