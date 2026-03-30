@@ -52,8 +52,8 @@
       <b>👩‍💻 Girl Code</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/reading.jpg" width="200" height="150" alt="Reading"/><br/><br/>
-      <b>📚 Reading</b>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/cat.jpg" width="200" height="150" alt="bonding"/><br/><br/>
+      <b>🐈 Bonding</b>
     </td>
   </tr>
 </table>
