@@ -47,13 +47,14 @@
       <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/air_dry.jpg" width="200" height="150" alt="Clay Art"/><br/><br/>
       <b>🎨 Air Dry Clay</b>
     </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/girl_code.jpg" width="200" height="150" alt="Girl Code"/><br/><br/>
-      <b>👩‍💻 Girl Code</b>
+   <td align="center" width="220">
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/cat.jpg" width="200" height="150" alt="bonding"/><br/><br/>
+      <b>🐈Bonding</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/cat.jpg" width="200" height="150" alt="bonding"/><br/><br/>
-      <b>🐈 Bonding</b>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/reading.jpg" width="200" height="150" alt="Reading"/><br/><br/>
+      <b>📚 Reading</b>
+    </td>
     </td>
   </tr>
 </table>
