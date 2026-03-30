@@ -1,0 +1,40 @@
+<svg width="780" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="780" height="160" rx="8" ry="8" fill="#21262d"/>
+  <text
+    x="390"
+    y="55"
+    font-family="DM Sans, sans-serif"
+    font-size="17"
+    font-weight="normal"
+    fill="#FF69B4"
+    text-anchor="middle"
+  >"Life is not easy for any of us. But what of that?</text>
+  <text
+    x="390"
+    y="85"
+    font-family="DM Sans, sans-serif"
+    font-size="17"
+    font-weight="normal"
+    fill="#FF69B4"
+    text-anchor="middle"
+  >We must have perseverance and above all,</text>
+  <text
+    x="390"
+    y="115"
+    font-family="DM Sans, sans-serif"
+    font-size="17"
+    font-weight="normal"
+    fill="#FF69B4"
+    text-anchor="middle"
+  >confidence in ourselves."</text>
+  <text
+    x="390"
+    y="145"
+    font-family="DM Sans, sans-serif"
+    font-size="15"
+    font-weight="normal"
+    fill="#FF69B4"
+    text-anchor="middle"
+    opacity="0.85"
+  >— Marie Curie ✨</text>
+</svg>
