@@ -14,43 +14,43 @@
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/lego.jpg" width="200" height="150" alt="Lego Building"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/lego.jpg" width="200" height="150" alt="Lego Building"/><br/><br/>
       <b>🧱 Lego Building</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/watching.jpg" width="200" height="150" alt="Movies & Series"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/watching.jpg" width="200" height="150" alt="Movies & Series"/><br/><br/>
       <b>🎬 Movies & Series</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/music.png" width="200" height="150" alt="Music"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/music.png" width="200" height="150" alt="Music"/><br/><br/>
       <b>🎵 Music</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/cooking.jpg" width="200" height="150" alt="Cooking"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/cooking.jpg" width="200" height="150" alt="Cooking"/><br/><br/>
       <b>🍳 Cooking</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/crochet.jpg" width="200" height="150" alt="Crochet"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/crochet.jpg" width="200" height="150" alt="Crochet"/><br/><br/>
       <b>🧶 Crochet</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/key_chain.jpg?raw=true" width="200" height="150" alt="Keychain Crafts"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/key_chain.jpg?raw=true" width="200" height="150" alt="Keychain Crafts"/><br/><br/>
       <b>🔑 Keychain Crafts</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/air_dry.jpg" width="200" height="150" alt="Clay Art"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/air_dry.jpg" width="200" height="150" alt="Clay Art"/><br/><br/>
       <b>🎨 Air Dry Clay</b>
     </td>
    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/cat.jpg" width="200" height="150" alt="bonding"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/cat.jpg" width="200" height="150" alt="bonding"/><br/><br/>
       <b>🐈Bonding</b>
     </td>
     <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/reading.jpg" width="200" height="150" alt="Reading"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/reading.jpg" width="200" height="150" alt="Reading"/><br/><br/>
       <b>📚 Reading</b>
     </td>
     </td>
@@ -154,7 +154,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jigglyWombat22/Tuazon/main/assets/quote.svg" width="780" alt="quote"/>
+  <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/quote.svg" width="780" alt="quote"/>
 </p>
 
 <br/>
