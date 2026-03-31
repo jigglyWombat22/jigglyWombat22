@@ -112,57 +112,6 @@
 
 <br/>
 
-<!-- HOBBIES -->
-### 🌸 Things I Love Outside of Coding
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/lego.jpg" width="200" height="150" alt="Lego Building"/><br/><br/>
-      <b>🧱 Lego Building</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/watching.jpg" width="200" height="150" alt="Movies & Series"/><br/><br/>
-      <b>🎬 Movies & Series</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/music.png" width="200" height="150" alt="Music"/><br/><br/>
-      <b>🎵 Music</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/cooking.jpg" width="200" height="150" alt="Cooking"/><br/><br/>
-      <b>🍳 Cooking</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/crochet.jpg" width="200" height="150" alt="Crochet"/><br/><br/>
-      <b>🧶 Crochet</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/key_chain.jpg?raw=true" width="200" height="150" alt="Keychain Crafts"/><br/><br/>
-      <b>🔑 Keychain Crafts</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/air_dry.jpg" width="200" height="150" alt="Clay Art"/><br/><br/>
-      <b>🎨 Air Dry Clay</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/cat.jpg" width="200" height="150" alt="Bonding"/><br/><br/>
-      <b>🐈 Bonding</b>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/reading.jpg" width="200" height="150" alt="Reading"/><br/><br/>
-      <b>📚 Reading</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
