@@ -203,10 +203,6 @@
 <!-- FOOTER -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&duration=5000&pause=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let%27s+build+something+amazing+together+%F0%9F%92%BB%F0%9F%8C%B8" alt="footer-typing" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jigglyWombat22&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS)
-
 <!-- BOTTOM WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%"/>
 
