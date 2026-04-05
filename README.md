@@ -10,6 +10,11 @@
 
 <br/>
 
+<!-- GIF BANNER -->
+<img src="https://raw.githubusercontent.com/jigglyWombat22/jigglyWombat22/main/assets/gif.gif" width="600"  alt="coding gif"/>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 <br/>
@@ -25,6 +30,23 @@
   real-world problems through code. I gladly welcome collaborations and opportunities<br/>
   to contribute to impactful projects.
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
+
+<br/>
+
+<!-- CURRENTLY LEARNING -->
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="center"><i>Always growing, always learning 🌱</i></p>
 
 <br/>
 
@@ -63,7 +85,6 @@
 
 <br/>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 <br/>
@@ -75,8 +96,9 @@
   <img src="https://streak-stats.demolab.com?user=jigglyWombat22&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&background=0d1117&border=FF69B4" alt="GitHub Streak"/>
 </p>
 
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigglyWombat22&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=false" alt="Activity Graph"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
