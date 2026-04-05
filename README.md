@@ -32,12 +32,6 @@
 
 <br/>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
-
-<br/>
-
 <!-- TECH STACKS -->
 ### 🛠️ Tech Stacks & Tools
 
@@ -102,6 +96,7 @@
 <!-- FOOTER -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&duration=5000&pause=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let%27s+build+something+amazing+together+%F0%9F%92%BB%F0%9F%8C%B8" alt="footer-typing" />
 
+<br>
 
 <!-- SOCIAL LINKS -->
 <a href="https://mail.google.com/mail/?view=cm&to=cheskatuazon97@gmail.com">
